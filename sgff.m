@@ -4,7 +4,7 @@
 (*(*********************SGFF Mathematica Package***********************)*)
 (*(***for calculating multisoliton form factors in sine-Gordon model***)*)
 (*(********************************************************************)*)
-(**)
+(* *)
 (*(*Output:*)
 (*FF2={Subscript[F, +-],Subscript[F, -+]}*)
 (*FF4={Subscript[F, --++],Subscript[F, -+-+],Subscript[F, +--+],Subscript[F, -++-],Subscript[F, +-+-],Subscript[F, ++--]}*)
